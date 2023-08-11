@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascrpit and pyhton**
 
-- 💬 Ask me about **javascript (especially about discord bots) and python**
+- 💬 Ask me about **javascript and python**
 
 - 📫 How to reach me **utkucelal11@gmail.com**
 
